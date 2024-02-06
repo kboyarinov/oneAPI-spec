@@ -2,8 +2,8 @@
 ..
 .. SPDX-License-Identifier: CC-BY-4.0
 
-Software Architecture
-=====================
+Software Architecture SUPER
+===========================
 
 oneAPI provides a common developer interface across a range of data
 parallel accelerators (see the figure below).  Programmers use DPC++
